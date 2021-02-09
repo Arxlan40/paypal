@@ -1,4 +1,4 @@
-# paypal
+# Paypal payment gateway integration in flutter
 
 A new Flutter application.
 
